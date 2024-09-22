@@ -11,9 +11,3 @@ This repository contains solutions for a technical assessment focused on Python 
 5. **Data Aggregation**: A function `aggregate_data(data: List[Dict], key: str, aggregator: Callable)` that aggregates values from a list of dictionaries without using built-in groupby methods.
 6. **Finding Duplicates**: A function that finds duplicates in an array of `n+1` integers, where each integer is between 1 and `n`, using O(1) extra space.
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-link>
-   cd <repository-directory>
