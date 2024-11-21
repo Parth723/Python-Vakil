@@ -1,8 +1,4 @@
-# Technical Assessment Test
-
-This repository contains solutions for a technical assessment focused on Python programming and the Django framework.
-
-## Assessment Questions
+Objectives
 
 1. **Web Scraping**: A Python script that scrapes the titles and URLs of the latest articles from a news website (e.g., CNN) using BeautifulSoup and requests.
 2. **CSV Data Cleaning**: A Python script that reads a CSV file with user data, removes duplicate entries based on `user_id`, filters out invalid email formats, and writes the cleaned data to a new CSV file.
